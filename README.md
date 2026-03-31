@@ -15,21 +15,6 @@ Sou estudante no início da minha jornada na área de tecnologia, com interesse 
 💻 Linguagem principal
 C++
 
-
-🧩 Representação em código
-class JoaoPedroMota:
-    def __init__(self):
-        self.role = "Desenvolvedor em formação"
-        self.education = "Sistemas de Informação"
-        self.languages = ["C++"]
-        self.interests = ["Front-end", "Back-end", "Machine Learning", "DevOps"]
-        self.current_focus = "Aprofundando conhecimentos em desenvolvimento e explorando novas tecnologias"
-
-
-   def mindset(self):
-        return "Curioso por natureza, sempre buscando aprender algo novo 💡"
-
-
 📈 Objetivos
 Evoluir como desenvolvedor full stack
 Construir projetos práticos para ganhar experiência
