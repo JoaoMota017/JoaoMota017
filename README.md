@@ -1,7 +1,20 @@
-<h1 align="center"> João Pedro Mota Guimarães</h1>
+<h1 align="center">⚡ João Pedro Mota Guimarães</h1>
+
+<p align="center">
+  💻 Desenvolvedor em formação | 🎓 Sistemas de Informação (FHO) <br>
+  ⚙️ C++ | 🐍 Python | 🧠 Machine Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Turning+logic+into+solutions;Back-end+Developer+in+progress;Learning+something+new+every+day" />
+</p>
+
+---
+
+## 🧠 Sobre mim
 
 ```python
-class Joao Mota:
+class Mota:
     def __init__(self):
         self.role = "Desenvolvedor em formação"
         self.education = "Sistemas de Informação - FHO"
@@ -12,5 +25,21 @@ class Joao Mota:
     def mindset(self):
         return "Sempre aprendendo e construindo 🚀"
 ```
-Tecnologias
-<p align="center"> <img search="hhtps://skillicons.dev/icons?i=cpp,python,git,github" /> </p>
+
+🚀 Tecnologias
+    <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,git,github" /> </p>
+
+🔥 Consistência
+<p align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" /> </p>
+
+🐍 Atividade (Snake Animation)
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+
+💡 Projetos em destaque
+
+🚧 Em construção... (em breve projetos em C# e Python)
+
+📫 Contato
+<p align="center"> <a href="https://www.linkedin.com/in/omathgr/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+
+<p align="center"> ⚡ "Code. Learn. Evolve." </p>
